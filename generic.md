@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: Solving problems
+description: I love to build tools and fix things. 
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
