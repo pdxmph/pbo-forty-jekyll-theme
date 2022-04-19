@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Background
-description: Where I've been and what I've done. 
+description: Where I've been and what I've done 
 image: assets/images/mph-pic.jpg
 nav-menu: true
 ---

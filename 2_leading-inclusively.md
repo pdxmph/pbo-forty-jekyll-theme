@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Leading inclusively
-description: Bringing everyone along. 
+description: Bringing everyone along 
 image: assets/images/hawthorne-bridge.jpg
 nav-menu: true
 ---
