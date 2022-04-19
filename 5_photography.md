@@ -22,30 +22,33 @@ If you can find it on a postcard, it’s already been covered pretty well and by
 
 <p>When the pandemic started, photography walks became a lot more important to me. I was out walking every morning and night as a way to feel healthier, both emotionally and physically, and I liked capturing the little details of street and home life that reflect this particular period. Outdoor dining, masked people on the street, odd little bits of pandemic-related folk art, and the empty quiet of a city street on afternoons that might have once been busy.</p>
 
-
-
-
 <div class="box alt">
-	<div class="row 50% ">
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/gallery/DSCF2876.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/gallery/DSCF3210.jpg %}" alt="" /></span></div>
-	   <div class="4u$"><span class="image fit"><img src="{% link assets/images/gallery/DSCF2639-3.jpg %}" alt="" /></span></div>
+	<div class="row 50% uniform ">
+		<div class="4u"><span class="image fit"> {% lightbox /assets/images/gallery/DSCF2876.jpg   --data="gallery"    %}</span></div>
+		<div class="4u"><span class="image fit"> {% lightbox /assets/images/gallery/DSCF3210.jpg    --data="gallery"    %}</span></div>
+		<div class="4u$"><span class="image fit"> {% lightbox /assets/images/gallery/DSCF2639-3.jpg  --data="gallery"   %}</span></div>
+	
 	   <!-- Break --> 
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/gallery/DSCF0013.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/gallery/3DD8DC19-06FC-4998-9E25-A16F16F2F7A2.jpg %}" alt="" /></span></div>
-	   <div class="4u$"><span class="image fit"><img src="{% link assets/images/gallery/DSCF0322.jpg %}" alt="" /></span></div>
+
+		<div class="4u"><span class="image fit"> {% lightbox /assets/images/gallery/DSCF0013.jpg --data="gallery"  %}</span></div>
+		<div class="4u"><span class="image fit"> {% lightbox /assets/images/gallery/3DD8DC19-06FC-4998-9E25-A16F16F2F7A2.jpg  --data="gallery" %}</span></div>
+		<div class="4u$"><span class="image fit"> {% lightbox /assets/images/gallery/DSCF0322.jpg --data="gallery"  %}</span></div>
+		
+		
 		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/gallery/L1000617.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/gallery/DSCF3643.jpg %}" alt="" /></span></div>
-	   <div class="4u$"><span class="image fit"><img src="{% link assets/images/gallery/L1000843.jpg %}" alt="" /></span></div>
-		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/gallery/L1020280.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/gallery/L1040114.jpg %}" alt="" /></span></div>
-	   <div class="4u$"><span class="image fit"><img src="{% link assets/images/gallery/L1000352.jpg %}" alt="" /></span></div>
-	   <!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/gallery/DSCF0518-2.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/gallery/DSCF8666.jpg %}" alt="" /></span></div>
-	   <div class="4u$"><span class="image fit"><img src="{% link assets/images/gallery/L1000355-2.jpg %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"> {% lightbox assets/images/gallery/L1000617.jpg --data="gallery" %}  </span></div>
+		<div class="4u"><span class="image fit"> {% lightbox assets/images/gallery/DSCF3643.jpg --data="gallery" %}  </span></div>
+	   <div class="4u$"><span class="image fit"> {% lightbox assets/images/gallery/L1000843.jpg --data="gallery" %}  </span></div>
+
+		<!-- Break --> 
+		<div class="4u"><span class="image fit"> {% lightbox assets/images/gallery/L1020280.jpg  --data="gallery" %}   </span></div>
+		<div class="4u"><span class="image fit"> {% lightbox assets/images/gallery/L1040114.jpg  --data="gallery" %}   </span></div>
+	   <div class="4u$"><span class="image fit"> {% lightbox assets/images/gallery/L1000352.jpg  --data="gallery" %}   </span></div>
+
+	   <!-- Break --> 
+		<div class="4u"><span class="image fit"> {% lightbox assets/images/gallery/DSCF0518-2.jpg --data="gallery" %} </span></div>
+		<div class="4u"><span class="image fit"> {% lightbox assets/images/gallery/DSCF8666.jpg --data="gallery" %} </span></div>
+	   <div class="4u$"><span class="image fit"> {% lightbox assets/images/gallery/L1000355-2.jpg --data="gallery" %} </span></div>
 	</div>
 </div>
 
