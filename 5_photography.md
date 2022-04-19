@@ -6,6 +6,7 @@ image: assets/images/gallery/DSCF0518-2.jpg
 nav-menu: true
 ---
 
+
 <p><span class="image left">{% lightbox assets/images/gallery/DSCF3743.jpg --data="On the beach in southern Oregon" --title="On the beach in southern Oregon" %} </span>I learned photography at a small town newspaper, where (both) reporters had to shoot their own news photos and do their own darkroom work. I enjoyed it mostly as a technical exercise, learning the mechanics of exposure and development. I "went digital" early on in the late '90s, but didn't really wake up to photography as something I loved to do until my first good digital camera, a Canon Powershot G3, which allowed for some level of manual control and raw shooting.</p>
 
 <p><span class="image right">{% lightbox assets/images/gallery/L1000248.jpg --data="Eggs and cigarettes" --title="Eggs and cigarettes"%}</span>I spent a period wanting to get what I think of as "postcard shots": Perfect reproductions of scenic things. Today, I tend to agree with CJ Chilvers about that kind of picture:</p>

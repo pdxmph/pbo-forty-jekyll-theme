@@ -2,7 +2,7 @@
 layout: post
 title: Solving problems
 description: I love to build tools and fix things 
-image: assets/images/tools-pic.jpg
+image: assets/images/tools-pic.jpg 
 nav-menu: false
 show_tile: false
 
