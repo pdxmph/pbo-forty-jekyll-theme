@@ -3,8 +3,8 @@ title: Mike Hall
 subtitle: Utility player
 email: mph@puddingbowl.org
 description: I've led all kinds of teams. <br />I keep people connected & moving in the same direction.<br />I make things better.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: http://mike.puddingbowl.org # the base hostname & protocol for your site
+#baseurl: "" # the subpath of your site, e.g. /blog
+url: https://mike.puddingbowl.org # the base hostname & protocol for your site
 author: Mike Hall
 #street_address: 8723 SE Claybourne Street
 city: Portland
