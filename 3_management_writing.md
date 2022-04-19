@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Management 
-description: A few ideas on key challenges 
-image: assets/images/gallery/DSCF3258-2.jpg
+description: A few ideas on key challenges
 nav-menu: true
+image: assets/images/gallery/DSCF3258.jpg
 ---
 
 I've managed and led software engineers, technical writers, IT developers, project managers, program managers, sysops engineers, business systems analysts, and marketing content editors. Every discipline has its own culture and particular challenges. 
