@@ -35,7 +35,7 @@ As much as two years of pandemic were challenging and disruptive, there was a ce
 - Do the people in the conference room make sure they're talking to the people on the screen as well as around the table? 
 - Does the team share the responsibilities of note-taking and facilitation equally? Or recognize that one person's chore is another person's development opportunity? 
 
-[fostering]: ./writing/notes_on_fostering_equitable_and_inclusive_behavior.md
+[fostering]: ./writing/notes_on_fostering_equitable_and_inclusive_behavior.html
 
 ### Technical leadership
 
