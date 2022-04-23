@@ -40,6 +40,8 @@ As much as two years of pandemic were challenging and disruptive, there was a ce
 
 ### Technical leadership
 
+_[Notes on Technical Leadership Groups][tlg]_
+
 Technical leadership groups --  architecture groups, steering committees, tiger teams, etc. -- can gather senior talent together to solve big problems. The last thing a lot of the  people on these teams want to do is spend time thinking about how they're organized or facilitated. [These notes on technical leadership groups][tlg] can help avoid a few common pitfalls, set the right expectations on how the groups should work, and point out that running these groups inclusively is a way to ensure the next generation of technical leadership is being prepared. 
 
 [tlg]: ./writing/notes_on_technical_leadership_groups.html
