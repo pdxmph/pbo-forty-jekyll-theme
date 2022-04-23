@@ -4,6 +4,7 @@ title: Photography
 description:  
 image: assets/images/gallery/DSCF0518-2.jpg
 nav-menu: true
+sort_order: 5
 ---
 
 

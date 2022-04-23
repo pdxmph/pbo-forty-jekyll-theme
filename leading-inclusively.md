@@ -4,6 +4,7 @@ title: Leading inclusively
 description: Bringing everyone along 
 image: assets/images/hawthorne-bridge.jpg 
 nav-menu: true
+sort_order: 1
 ---
 
 I've done well in the tech industry, and have had great experiences leading people in STEM roles; but I've also led teams of people you might not think about as "technical." In high-growth or fast-paced environments, it's easy to overlook or undervalue people who aren't writing code, and it's also important to remember that those same people and teams often represent the most diverse parts of the organization. 

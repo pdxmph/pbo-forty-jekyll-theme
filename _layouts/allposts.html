@@ -27,7 +27,7 @@
 	  {% if post.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
 	  
 
-	  <p><b>{% if post.author %}Written by {{ post.author}} on {% endif %} {% if post.date %}{{ post.date | date: "%-d %B %Y"}}{% endif %} ( <a href="{{ post.url }}">link</a>)</b></p>
+	  <p>{% if post.author %}By {{ post.author}}, {% endif %} {% if post.date %}{{ post.date | date: "%-d %B %Y"}}{% endif %} (<a href="{{ post.url }}">link</a>)</p>
 	  <p>{{ post.content }}</p>
 	  {% endif %}
           {% endfor %}
