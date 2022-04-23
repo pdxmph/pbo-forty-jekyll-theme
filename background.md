@@ -4,7 +4,7 @@ title: Background
 description: Where I've been and what I've done
 image: assets/images/mph-pic.jpg
 nav-menu: true
-sort_order: 4
+sort_order: 10
 ---
 
 <!-- Main -->
